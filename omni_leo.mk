@@ -17,6 +17,7 @@ TARGET_BOOTANIMATION_SIZE := 1080x608
 
 # TWRP
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_23x41.h\"
+DEVICE_RESOLUTION := 1080x1920
 TW_THEME := portrait_hdpi
 
 # Inherit AOSP leo device parts
